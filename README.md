@@ -9,7 +9,7 @@ A Flutter project which is can tell story.
 ![main screen](https://github.com/Md-Shoaib-Abdullah-Khan/Story-Teller-App/assets/60256334/1b0c951a-3c60-4639-829c-46c21b4757b4) <br>
 
 
-From this page users can choose stories. After selecting story they will enter into the story.<br>
+From this page users can choose stories. After selecting story they will enter into the story.<br><br>
 
 2. Story Page. Example: Hare and Tortoise <br>
    
